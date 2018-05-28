@@ -25,7 +25,8 @@ SECRET_KEY = '_ob!qux+puzkba!@((6-mypaw@)x@atjy+p3(_*xis-8_&-2df'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['gerlitzen.pythonanywhere.com',
+                 'localhost',]
 
 
 # Application definition
